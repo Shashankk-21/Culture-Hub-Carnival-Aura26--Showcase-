@@ -24,7 +24,7 @@ The official Cultural Club Showcase portal for the Aura '26 Carnival of Cultures
     ```bash
     npm run dev
     ```
-4.  Open `http://localhost:5173` (or the port shown in terminal).
+4.  Open `http://localhost:8080` (or the port shown in terminal).
 
 ---
 *Built for the Aura '26 Technical Team Selection.*
